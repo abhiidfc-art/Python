@@ -38,11 +38,4 @@ Prints a name multiple times using:
 
 ---
 
-# 🚀 How The Calculator Works
-
-The program asks the user
-Enter first number
-Enter second number
-Choose symbol
-
-More files coming soon
+# More files coming soon
